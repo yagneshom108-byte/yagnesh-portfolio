@@ -214,7 +214,7 @@ export const PROJECTS: Project[] = [
     description:
       "Balista Bistro Ahmedabad - Burger Day 2026 Reel",
 
-    thumbnail: "/assets/motion 4.jpg",
+    thumbnail: "/assets/Motion 4.jpg",
 
     youtubeId: "xNsdXgKmprU",
 
@@ -250,7 +250,7 @@ export const PROJECTS: Project[] = [
     description:
       "Euro Foods India - Farali Product 2026 Reel",
 
-    thumbnail: "/assets/motion 5.jpg",
+    thumbnail: "/assets/Motion 5.jpg",
 
     youtubeId: "ddurWZFgphs",
 
